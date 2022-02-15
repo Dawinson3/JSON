@@ -1,0 +1,12 @@
+{
+            {"name" : "David",
+		    "age" : 25}
+            "pet rat" : {"name" : "Winston",
+		                "age" : 1
+	    },
+	    "pet rat" : {"name" : "Stert",
+		          "age" : 1
+	    },
+	    "future desired salary" : 450-500$
+            }
+}
