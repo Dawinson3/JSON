@@ -1,3 +1,17 @@
 {
-        {"skills" : "Testing API,Postman,Fidler,log reading,Charles,Terminal Linux,Bash scripting,SQL,Git,Jmetr,Python and not only"}
+  "skills" : "Testing API",
+  "skills" : "Postman",
+  "skills" : "Fiddler",
+  "skills" : "log reading",
+  "skills" : "Charles",
+  "skills" : "Terminal Linux",
+  "skills" : "Bash scripting",
+  "skills" : "SQL",
+  "skills" : "Git",
+  "skills" : "Jmetr",
+  "skills" : "Python and not only",
+  "skills" : "Android Studio",
+  "skills" : "Dev_Tools",
+  "skills" : "Json",
+  "skills" : "XML" 
 }
