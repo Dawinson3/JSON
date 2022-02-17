@@ -1,11 +1,11 @@
 {
-       "about me" : "group" : 27, 
-        	{"name" : "David",
-		    "age" : 25},
-                    "about my pets rats" : {"name" : "Winston",
-		                            "age" : 1},
-	                          {"name" : "Stert",
-		                            "age" : 1},
-                "future desired salary" : 450-500 : "dollars" 
+        "group": "27",
+        "name": "David",
+        "age":"22",
+        "my_pet": "rats",
+        "name_pets": [
+            "Winston",
+            "Stert"],
+            "age_pet" : "1_year",
+        "future_desired_salary": "450-500$"
 }
-
